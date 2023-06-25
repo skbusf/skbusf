@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a Data Enthusiast who believes in data-driven decision-making to solve the inefficiencies of the world. My experience has taught my how to approach data and take a data-centric approach by asking the right questions.
+I'm a Data Enthusiast who believes in data-driven decision-making to solve the inefficiencies of the world. My experience has taught my how to approach data and take a data-centric approach by asking the right questions.
 
 ### 📚 My core competencies include: 
 ✔     Data Science
